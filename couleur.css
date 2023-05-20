@@ -1,0 +1,18 @@
+html { 
+    background-color: whitesmoke;
+}
+.p1 {
+    color: black;
+}
+.p2 {
+    color: black;
+}
+.p3 {
+    color: black;
+}
+p.p1 {
+    font-size: 15px;
+  }
+  p.p2 {
+    font-size: 10px;
+  }
